@@ -1,1 +1,34 @@
-Hello My Dear Bangladesh
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+table{
+    
+    
+    
+}
+tr{
+    margin: 10px;
+}
+th, td{
+    padding: 10px;
+    margin: 28px 18px;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    
+    
+}
+th{
+    background-color: burlywood;
+}
+td{
+    background-color: blueviolet;
+}
